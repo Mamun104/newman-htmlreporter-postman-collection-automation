@@ -1,6 +1,6 @@
 # newman-htmlreporter-postman-collection-automation
 
-How to run this project
+How to run this project:
 
 Clone this project
 
